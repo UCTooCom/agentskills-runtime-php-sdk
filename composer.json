@@ -16,7 +16,7 @@
         "skill-runtime",
         "ai-agent-tools"
     ],
-    "homepage": "https://github.com/UCTooCom/agentskills-runtime",
+    "homepage": "https://github.com/UCTooCom/agentskills-runtime-php-sdk",
     "license": "MIT",
     "authors": [
         {
@@ -26,9 +26,9 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/UCTooCom/agentskills-runtime/issues",
-        "source": "https://github.com/UCTooCom/agentskills-runtime/tree/main/sdk/php",
-        "docs": "https://github.com/UCTooCom/agentskills-runtime/tree/main/sdk/php#readme"
+        "issues": "https://github.com/UCTooCom/agentskills-runtime-php-sdk/issues",
+        "source": "https://github.com/UCTooCom/agentskills-runtime-php-sdk",
+        "docs": "https://github.com/UCTooCom/agentskills-runtime-php-sdk#readme"
     },
     "funding": [
         {
