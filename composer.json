@@ -1,7 +1,7 @@
 {
     "name": "opencangjie/skills",
     "description": "PHP SDK for AgentSkills Runtime - Install, manage, and execute AI agent skills with built-in runtime support",
-    "version": "0.0.16",
+    "version": "0.0.2",
     "type": "library",
     "keywords": [
         "agent-skills",
